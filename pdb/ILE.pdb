@@ -1,0 +1,44 @@
+HEADER    Receptor                                26-Feb-10   2RR0
+COMPND    Structure Of Epidermal Growth Factor-Like Repeat 12 Of Mouse
+COMPND   2 Notch-1 Receptor                                           
+SOURCE    ORGANISM_SCIENTIFIC: Mus musculus; ORGANISM_COMMON: house   
+SOURCE   2 mouse                                                      
+AUTHOR    K.Hosoguchi, K.Shimizu, N.Fujitani & S.Nishimura            
+REMARK  00 NCBI PDB FORMAT VERSION 5.0
+REMARK  00 NOTE:  NCBI-MMDB PDB-Format File derived from ASN.1
+REMARK  00 Refer to original ASN.1 file or PDB file for data records
+REMARK  00 not included.  Changes from original PDB files include:
+REMARK  00 - residues are derived by graph matching algorithms.
+REMARK  00 - residue numbers always increase numerically (e.g. no 8A).
+REMARK  00 - taxonomic information reannotated using NCBI Taxonomy.
+REMARK  00 - element names are made consistent.
+REMARK  00 - CONECT records are derived algorithmically.
+REMARK  00 - Secondary structure is derived algorithmically.
+SEQRES   1 A   38  ASP VAL ASN GLU CYS ILE SER ASN PRO CYS GLN ASN ASP 
+SEQRES   2 A   38  ALA THR CYS LEU ASP GLN ILE GLY GLU PHE GLN CYS ILE 
+SEQRES   3 A   38  CYS MET PRO GLY TYR GLU GLY VAL TYR CYS GLU ILE 
+SHEET    1 str   THR A  15  ILE A  26 
+ATOM    521  C   ILE A  38       2.120 -10.749  -1.230  1.00  0.00           C
+ATOM    522  CA  ILE A  38       1.754  -9.874  -2.423  1.00  0.00           C
+ATOM    523  CB  ILE A  38       3.049  -9.355  -3.079  1.00  0.00           C
+ATOM    524  CD1 ILE A  38       1.997  -8.788  -5.329  1.00  0.00           C
+ATOM    525  CG1 ILE A  38       2.726  -8.269  -4.108  1.00  0.00           C
+ATOM    526  CG2 ILE A  38       3.811 -10.502  -3.728  1.00  0.00           C
+ATOM    527  HA  ILE A  38       1.224 -10.474  -3.148  1.00  0.00           H
+ATOM    528  HB  ILE A  38       3.672  -8.935  -2.305  1.00  0.00           H
+ATOM    529  N   ILE A  38       0.879  -8.777  -2.022  1.00  0.00           N
+ATOM    530  O   ILE A  38       1.369 -10.837  -0.258  1.00  0.00           O
+ATOM    531 1HD1 ILE A  38       2.712  -9.017  -6.105  1.00  0.00           H
+ATOM    532 1HG1 ILE A  38       2.103  -7.518  -3.647  1.00  0.00           H
+ATOM    533 1HG2 ILE A  38       3.646  -7.811  -4.441  1.00  0.00           H
+ATOM    534 2HD1 ILE A  38       1.309  -8.036  -5.684  1.00  0.00           H
+ATOM    535 2HG2 ILE A  38       4.287 -10.152  -4.631  1.00  0.00           H
+ATOM    536 2HG1 ILE A  38       3.125 -11.300  -3.968  1.00  0.00           H
+ATOM    537 3HD1 ILE A  38       1.450  -9.681  -5.068  1.00  0.00           H
+ATOM    538 3HG2 ILE A  38       4.562 -10.868  -3.042  1.00  0.00           H
+ATOM    539  H   ILE A  38       1.016  -8.350  -1.152  1.00  0.00           H
+TER
+CONECT   65  210                  
+CONECT  133  346                  
+CONECT  375  503                  
+END
