@@ -10,7 +10,7 @@ import d3d11
 import d3d11x
 from d3d11c import *
 from Scientific.IO.PDB import Structure
-
+import sys
 
 RED    =    (.5, 0, 0, 0)
 GREEN  =    (0, .5, 0, 0)
@@ -32,7 +32,7 @@ def gets(s,p):
     if m:
         return m.group(1)
 
-conf = Structure('pdb/2CD7.pdb')
+conf = Structure(sys.argv[1])
 
 class AtomSpec:
     
